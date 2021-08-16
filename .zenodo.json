@@ -8,58 +8,47 @@
     {
       "name": "Potter, Ellen",
       "affiliation": "Cambridge Group for the History of Population and Social Structure"
-    }
-  ],
-  "contributors": [
+    },
     {
       "name": "Shaw-Taylor, Leigh",
       "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "ProjectLeader",
       "orcid": "0000-0002-3703-7689"
     },
     {
       "name": "Bogart, Dan",
       "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "ProjectMember",
       "orcid": "0000-0002-0011-3190"
     },
     {
       "name": "Alvarez-Palau, Eduard J.",
       "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "DataCollector",
       "orcid": "0000-0003-0368-9344"
     },
     {
       "name": "O'Hanlon, Bonney",
-      "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "DataCollector"
+      "affiliation": "Cambridge Group for the History of Population and Social Structure"
     },
     {
       "name": "Gibbs, Spike",
       "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "DataCollector"
     },
     {
       "name": "Keibek, Sebastiaan",
       "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "Editor",
       "orcid": "0000-0002-6097-8196"
     },
     {
       "name": "Rosevear, Alan",
-      "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "Editor"
+      "affiliation": "Cambridge Group for the History of Population and Social Structure"
     },
     {
       "name": "Litvine, Alexis",
-      "affiliation": "Cambridge Group for the History of Population and Social Structure",
-      "type": "DataCollector",
+      "affiliation": "Cambridge Group for the History of Population and Social Structure"
       "orcid": "0000-0003-0082-1004"
     },
     {
       "name": "Gadd, Stephen James",
-      "affiliation": "Viae Regiae",
-      "type": "DataCurator",
+      "affiliation": "Viae Regiae"
       "orcid": "0000-0003-3060-0181"
     }
   ],
