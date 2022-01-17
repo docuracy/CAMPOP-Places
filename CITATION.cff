@@ -64,6 +64,7 @@ authors:
     given-names: Stephen James
     orcid: 'https://orcid.org/0000-0003-3060-0181'
     affiliation: British Library
+doi: 'https://doi.org/10.5281/zenodo.5863155'
 repository-code: 'https://github.com/docuracy/CAMPOP-Places'
 url: >-
   https://www.campop.geog.cam.ac.uk/research/occupations/datasets/catalogues/documentation/candidatetownsofenglandandwales1563_1911.pdf
