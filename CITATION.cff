@@ -1,0 +1,119 @@
+cff-version: 1.2.0
+title: CAMPOP Places GIS
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Max
+    family-names: Satchell
+    orcid: 'https://orcid.org/0000-0003-3340-9825'
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - given-names: Ellen
+    family-names: Potter
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: Shaw-Taylor
+    given-names: Leigh
+    orcid: 'https://orcid.org/0000-0002-3703-7689'
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: Bogart
+    given-names: Dan
+    orcid: 'https://orcid.org/0000-0002-0011-3190'
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: Alvarez-Palau
+    given-names: Eduard J
+    orcid: 'https://orcid.org/0000-0003-0368-9344'
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: O'Hanlon
+    given-names: Bonney
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: Gibbs
+    given-names: Spike
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - given-names: Sebastiaan
+    family-names: Keibek
+    orcid: 'https://orcid.org/0000-0002-6097-8196'
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: Rosevear
+    given-names: Alan
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: Litvine
+    given-names: Alexis
+    affiliation: >-
+      Cambridge Group for the History of Population
+      and Social Structure
+  - family-names: Gadd
+    given-names: Stephen James
+    orcid: 'https://orcid.org/0000-0003-3060-0181'
+    affiliation: British Library
+repository-code: 'https://github.com/docuracy/CAMPOP-Places'
+url: >-
+  https://www.campop.geog.cam.ac.uk/research/occupations/datasets/catalogues/documentation/candidatetownsofenglandandwales1563_1911.pdf
+abstract: >-
+  This dataset provides a means for geolocating
+  historical places in England and Wales based on
+  modern place-names and historical counties.
+  Coordinate data are derived very largely from
+  Satchell, M., Potter, E., Shaw-Taylor, L., Bogart,
+  D., 'Candidate Towns of England and Wales,
+  c.1563-1911', 2017. A description of that dataset
+  can be found in M. Satchell, 'Candidate Towns of
+  England and Wales, c.1563-1911 GIS shapefile'
+  [http://www.geog.cam.ac.uk/research/projects/occupations/datasets/documentation.html].
+  Hyphens, apostrophes, and spaces are stripped from
+  place-names and prefixed by a three-letter county
+  code to form a Uniform Resource Identifier (URI)
+  that can be referenced from other datasets. The
+  county codes are primarily those defined by The
+  Historic Counties Trust
+  [http://historiccountiestrust.co.uk/standard];
+  Chapman Codes
+  [https://en.wikipedia.org/wiki/Chapman_code] are
+  used for the Channel Islands and Isle of Man. The
+  method of digitising a point in the original Towns
+  dataset was devised by Max Satchell and Ellen
+  Potter. The idea was to establish an accurate and
+  consistent set of town central points suitable for
+  network analysis based on enduring features. Since
+  some towns might not have a particular feature and
+  some features are more desirable because they are
+  more likely to be central and enduring, Satchell
+  devised a hierarchy of features that could be
+  regarded as the 'centre' of the settlement for the
+  period c. 1680-1911. In descending order of
+  desirability, the hierarchy used is:Marketplace or
+  a market feature such as a market house, corn
+  exchange etc.; Parish church; Inn; Post Office;
+  Public House; Centre of the High Street. Subsequent
+  additions to the dataset have occasionally been
+  located by road intersections.
+keywords:
+  - GIS
+  - historical
+  - england
+  - wales
+  - place-names
+  - towns
+  - markets
+  - cities
+  - parishes
+  - villages
+license: CC-BY-4.0
