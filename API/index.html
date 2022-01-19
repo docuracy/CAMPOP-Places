@@ -22,7 +22,7 @@ For details see https://github.com/docuracy/Locolligo/blob/main/LICENSE.md
 			})
 			if(data.hasOwnProperty('citation')) result[0].citation = data.citation;
 			var formatter = new JSONFormatter(result[0],10,{theme:'dark'});
-			document.getElementById('body').innerHTML = formatter.render();
+			document.body.innerHTML = formatter.render();
 		});
 	}
 	</script>
