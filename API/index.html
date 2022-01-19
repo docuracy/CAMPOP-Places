@@ -21,7 +21,7 @@ For details see https://github.com/docuracy/Locolligo/blob/main/LICENSE.md
 				return obj['@id'] === window.location.href;
 			})
 			if(data.hasOwnProperty('citation')) result[0].citation = data.citation;
-			var formatter = new JSONFormatter(result[0],10,{theme:'dark'});
+			var formatter = new JSONFormatter(result[0],10,{theme:'light'});
 			document.body.appendChild(formatter.render());
 		});
 	}
